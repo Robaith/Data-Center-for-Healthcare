@@ -1,3 +1,6 @@
+ALhamdulillah. As a team leader , I finished my final semester project.
+U can read the documentation slide of this project. 
+
 Modules in the Project :The entire project mainly consists of three modules, which are
 1.	Patient module
 2.	Doctor module
@@ -20,3 +23,5 @@ Modules in the Project :The entire project mainly consists of three modules, whi
 	View the prescription of patients.
 	Provide medicine according to prescriptions.
 	Manage own profile.
+
+note : Import the attached .sql file to run this project
